@@ -1,8 +1,8 @@
 line 
-another line 
+**another line** 
 
 ----
 
 line
 
-another line
+~~another line~~
